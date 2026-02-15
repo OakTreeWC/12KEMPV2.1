@@ -2,7 +2,7 @@
 12KEMP V2.1 is a 12 key 4 by 3 macropad, that features a Xiao SEEED Studio RP2040 with vial-qmk support, a clickable rotary encoder, a completely custom pcb with hot-swap support for 3/5-pin regular MX switches, as well as a complete case. All related files are in this repo, and you may create any form of case to mount the pcb onto, though it may take some time. Additionally, a bill of materials (BOM) is included. 
 
 I made this project, 1. for school, and 2. for the [hackclub blueprint](https://blueprint.hackclub.com) event.
-To use my project, one can use (vial)[https://get.vial.today] to change what each key does, and then use it to run functions on their computer.
+To use my project, one can use [vial](https://get.vial.today) to change what each key does, and then use it to run functions on their computer.
 
 
 <img width="2232" height="1279" alt="Screenshot 2026-02-14 174941" src="https://github.com/user-attachments/assets/eafc4c3e-9ba9-4db7-8a2d-a47fe5126d7a" />
