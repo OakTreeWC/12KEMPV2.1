@@ -7,6 +7,8 @@ To use my project, one can use [vial](https://get.vial.today) to change what eac
 
 <img width="2232" height="1279" alt="Screenshot 2026-02-14 174941" src="https://github.com/user-attachments/assets/eafc4c3e-9ba9-4db7-8a2d-a47fe5126d7a" />
 <img width="1516" height="1066" alt="Screenshot 2026-02-14 174335" src="https://github.com/user-attachments/assets/53dc37af-ba54-432c-9c11-f8b18d8138a8" />
+<img width="1658" height="844" alt="image" src="https://github.com/user-attachments/assets/984f9e75-eded-47d0-8799-acd20d162e9d" />
+
 
 
 ## Bill of Materials
