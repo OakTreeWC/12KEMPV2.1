@@ -43,7 +43,7 @@ In order to use this project, one can either download Vial from [get.vial.today]
 
 ## Licensing
 
-Copyright 2025 William C.
+Copyright 2026 William C.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
