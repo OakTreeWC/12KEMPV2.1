@@ -1,13 +1,22 @@
-# 12KEMP V2.1  (W.I.P)
+# 12KEMP V2.1  (Complete)
 12KEMP V2.1 is a 12 key 4 by 3 macropad, that features a Xiao SEEED Studio RP2040 with vial-qmk support, a clickable rotary encoder, a completely custom pcb with hot-swap support for 3/5-pin regular MX switches, as well as a complete case. All related files are in this repo, and you may create any form of case to mount the pcb onto, though it may take some time. Additionally, a bill of materials (BOM) is included. 
 
 I made this project, 1. for school, and 2. for the [hackclub blueprint](https://blueprint.hackclub.com) event.
-To use my project, one can use [vial](https://get.vial.today) to change what each key does, and then use it to run functions on their computer.
 
+
+![12kemp](https://github.com/user-attachments/assets/55009314-274e-464e-b952-e22a13be6b38)
+
+## Installing the Firmware
+In order to install the firmware on the SEEED Studio RP2040 (RP2350 is not supported in QMK yet), hold the boot button on the microcontroller while plugging it into your computer. Once plugged in, a USB Mass Storage Device should appear. Download and move the .uf2 [firmware file](https://github.com/OakTreeWC/12KEMPV2.1/raw/refs/heads/main/Production/firmware.uf2) to the device. After the firmware has been put on the flash, the microcontroller should restart automatically. The firmware has now been installed.
+
+## Usage
+In order to use this project, one can either download Vial from [get.vial.today](https://get.vial.today), or use their [web interface](https://vial.rocks/). When plugged in, the device should show up on the top in a little dropdown. (Web users may have to manually select the device when setting up) If necessary, select the device from the dropdown. Now you can manually change what each key on the macropad does, simply by clicking the key you want to change and selecting what you want it to do from the bottom. You can change what keys on the other layers do as well, by just clicking the numbers right under the dropdown on the left.
 
 <img width="2232" height="1279" alt="Screenshot 2026-02-14 174941" src="https://github.com/user-attachments/assets/eafc4c3e-9ba9-4db7-8a2d-a47fe5126d7a" />
 <img width="1516" height="1066" alt="Screenshot 2026-02-14 174335" src="https://github.com/user-attachments/assets/53dc37af-ba54-432c-9c11-f8b18d8138a8" />
 <img width="1658" height="844" alt="image" src="https://github.com/user-attachments/assets/984f9e75-eded-47d0-8799-acd20d162e9d" />
+<img width="1512" height="778" alt="image" src="https://github.com/user-attachments/assets/062188be-067d-491c-8e4a-54da6284f711" />
+
 
 
 
@@ -34,7 +43,7 @@ To use my project, one can use [vial](https://get.vial.today) to change what eac
 
 ## Licensing
 
-Copyright 2025 William C.
+Copyright 2026 William C.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
